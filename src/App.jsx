@@ -107,6 +107,7 @@ export function App() {
       console.log(adventurer.someNonExistentMethod?.());
       // expected output: undefined
 
+    //https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/
     return (
         <>
             <h2>Cuanto Javascript necesito para React ?</h2>
